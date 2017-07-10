@@ -2,4 +2,4 @@
 
 (enable-console-print!)
 
-(println "hello cljs")
+(println "hello cljs - 2017")
